@@ -2,8 +2,7 @@
 
 This project demonstrates the process of the bubble sort algorithm using HTML, CSS, and JavaScript. It provides an interactive and educational way for users to visualize how the bubble sort algorithm sorts elements in an array.
 
-https://github.com/nishantkumar00112/Bubble-Sorting-Visualizer/assets/97521348/17956e6d-3879-4c61-92dd-cf24d7eca7b3
-
+https://github.com/nishantkumar00112/Bubble-Sorting-Visualizer/assets/97521348/e3d823cb-1f08-42f7-a04e-73c9a24a3398
 
 # Introduction
 Bubble Sorting Visualizer is a web-based application designed to help users understand the bubble sort algorithm visually. The website generates a random array of elements and displays them as bars, with each bar's height representing the value of an element in the array. As the algorithm progresses, users can observe how the bars move and swap positions until the array is sorted.
